@@ -1,1 +1,1 @@
-default[:cwlogs][:logfile] = '/var/log/aws/opsworks/opsworks-agent.log'
+default[:cwlogs][:logfile] = '/var/lib/aws/opsworks/chef/*.log'
